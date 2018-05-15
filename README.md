@@ -36,3 +36,7 @@
 # 執行
 測試在Validaition set 上的正確率
 python main.py
+
+# 連結
+(1) : https://github.com/kumiko-oreyome/Seq2Seq-Adder-Subtractor
+(2) : https://github.com/kumiko-oreyome/Adder-Subtractor_GRU
